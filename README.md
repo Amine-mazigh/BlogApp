@@ -16,7 +16,7 @@ Flutter Blog App is a simple mobile application that allows users to view and in
 To run this application locally, follow these steps:
 
 1. Ensure you have Flutter installed on your machine.
-2. Clone this repository: `git clone https://github.com/your_username/flutter_blog_app.git`
+2. Clone this repository: `git clone https://github.com/Amine-mazigh/flutter_blog_app.git`
 3. Navigate to the project directory: `cd flutter_blog_app`
 4. Run the app: `flutter run`
 
